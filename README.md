@@ -9,4 +9,4 @@ https://drive.google.com/file/d/1jh5deykn-4EfnuMDFpxbAxVCwsGFpDBa/view?usp=shari
 
 # Documentación
 
-https://docs.google.com/presentation/d/1JOHiNe_5FJ422D2PlvDNKBZ6LJ1gnaAT2iFe58UeuRI/edit#slide=id.g6ec5cb9665_0_21
+https://docs.google.com/presentation/d/1JOHiNe_5FJ422D2PlvDNKBZ6LJ1gnaAT2iFe58UeuRI/edit?usp=sharing
